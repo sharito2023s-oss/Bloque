@@ -82,4 +82,4 @@ Controla la ejecución del juego y la impresión de los resultados.
 
 ## 👥 Autores
 - **Carlos Andrés Suárez Torres** → [Carlos23Andres](https://github.com/Carlos23Andres)  
-- **Sharito202** → [sharito202](https://github.com/sharito202)
+- **Saira Sharid Sanabria Muñoz** → [sharito202](https://github.com/sharito202)
